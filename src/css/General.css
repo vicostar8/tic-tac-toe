@@ -1,0 +1,14 @@
+.Height_Allscree {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.DiceBoard_BG {
+  background-color: #d6d6d6;
+}
+
+.Table td:hover {
+  cursor: pointer;
+}
